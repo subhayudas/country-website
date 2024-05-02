@@ -2,20 +2,7 @@
 
 <div align="center">
  <h1>REST Countries API with color theme switcher</h1>
- <h3>
-    <!-- Github Pages Live -->
-    <a href="https://mohamedaridah.github.io/frontendmentor_REST-Countries-API-with-color-theme-switcher/">Live</a>
-    <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Live solution -->
-    <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-using-vanilla-javascript-ByX3ZG1Vc" title="Check My Solution on Frontend Mentor">
-      Solution
-    </a>
-    <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Challenge Link -->
-    <a href="https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca" title="Original Frontend Mentor Challenge Link">
-      Challenge
-    </a>
-  </h3>
+
   <div>
      Source of the project from <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
   </div>
@@ -39,7 +26,7 @@
 1. [What you can do?!](#what-you-can-do...?!)
 1. [Useful resources](#useful-resources)
 1. [Acknowledgments](#acknowledgments)
-1. [Author](#author)
+1.
    <br>
    <br>
 
@@ -81,11 +68,6 @@ I need your opinions, feedbacks , how do you find my code structure? or any sugg
 - I don't have sketch or figma files. So the final result isn't pixel perfect.
 - I want to say **Thanks** to anyone who see my work and react with it, give me his feedback and helped me to improve myself. So thank you❤.
 
-## Author
 
-- My website - Well I haven't made my portfolio yet, but gonna make it soon.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/1a5dbfa142a9677d6ddaa05d05f377ac23af9a2e/icons/github/github-original.svg" width="20" height="20"/> &nbsp;Github - [@FedLover](https://github.com/MohamedAridah)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/1a5dbfa142a9677d6ddaa05d05f377ac23af9a2e/icons/codepen/codepen-plain.svg" width="20" height="20"/> &nbsp;Codepen - [@FedLover](https://codepen.io/FedLover)
-- <img src="https://raw.githubusercontent.com/MohamedAridah/hosted-assets/main/FEM.png" width="20" height="20"/> &nbsp;Frontend Mentor - [@mo](https://www.frontendmentor.io/profile/MohamedAridah)
 
 **See you in another project!** 👋👩‍💻
